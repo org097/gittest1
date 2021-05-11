@@ -20,4 +20,8 @@ add from console line 4
 
 add from Sammy line 05
 add from console line 5
+<<<<<<< HEAD
 add from Sammy line 06
+=======
+add from console line 6
+>>>>>>> 3a73335ec11069b8698cd1fadda2c849ab72a48d
